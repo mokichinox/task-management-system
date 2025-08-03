@@ -47,6 +47,26 @@ Delete:
 - **Google OAuth** (Google login)
 
 ---
+## 💻 New User Guide:
+
+### 📋 Prerequisites Checklist
+- XAMPP installation links
+- Node.js download
+- Composer setup
+- Git installation
+  
+### 🚀 Step-by-Step Instructions
+- XAMPP Services - Start Apache & MySQL
+- Repository Cloning - Get your code from GitHub
+- Dependencies - Install Composer & NPM packages
+- Environment Setup - Configure .env file
+- Database Creation - phpMyAdmin setup
+- Google OAuth - Optional authentication setup
+- Migration & Build - Database tables & assets
+- Launch - Start your application
+
+
+---
 
 ## 🔨 Installation
 
