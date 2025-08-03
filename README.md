@@ -16,8 +16,9 @@ A modern task management web app built with **Laravel**, **React**, **Inertia.js
 
 ## 📸 Screenshots
 
-![Login Page](<img width="1632" height="925" alt="image" src="https://github.com/user-attachments/assets/b4bed0d2-ad70-487f-8042-ca66e20e0fbb" />
-)
+Login Page:
+<img width="1632" height="925" alt="image" src="https://github.com/user-attachments/assets/b4bed0d2-ad70-487f-8042-ca66e20e0fbb" />
+
 ![Register Page](<img width="1678" height="909" alt="image" src="https://github.com/user-attachments/assets/cd68b658-f9c5-41ca-bb99-88760f16c222" />
 )
 ![Dashboard](<img width="1860" height="916" alt="image" src="https://github.com/user-attachments/assets/3b4d685b-a329-4114-ae49-e2a35cdd9fd6" />
